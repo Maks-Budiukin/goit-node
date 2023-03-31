@@ -1,0 +1,31 @@
+{
+  "name": "goit-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maks-Budiukin/goit-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maks-Budiukin/goit-node/issues"
+  },
+  "homepage": "https://github.com/Maks-Budiukin/goit-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "uuid": "^9.0.0",
+    "yargs": "^17.7.1",
+    "yarn": "^1.22.19"
+  }
+}
